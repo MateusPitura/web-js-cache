@@ -1,0 +1,1 @@
+import{j as s,V as i,L as e}from"./index-DdTfw52g.js";function o(){return s.jsxs("div",{children:[s.jsxs("div",{children:["This is Page in ",i]}),s.jsx(e,{to:"/",children:"Go to Home"})]})}export{o as default};
